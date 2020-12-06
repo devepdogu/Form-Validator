@@ -215,3 +215,7 @@
  
  - > formClick : <code> Default Value =null </code> &nbsp; <code>If you giving clickSelector  clickSelector clicked formClick working else form[type=submit] clicked formClick   working  </code>
       - <code>Usage $validator(selector,{ formClick:function() { console.log("You click me!"); } }); </code>
+      
+      
+ # TÜRKÇE YAPMA
+   - > <code>Kullanımı $validator(selector,{  systemLang:"tr" }); </code>
